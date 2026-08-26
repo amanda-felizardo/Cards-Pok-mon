@@ -13,7 +13,7 @@ body{ /*Estilo do geral corpo da página*/
 
        nav a { /* Links de navegação*/
        color: rgb(40, 47, 47); /*Cor dos links*/
-       margin: 0 30px; /* Espaçamento lateral*/
+       margin: 0 10px; /* Espaçamento lateral*/
        text-decoration: none; /* Remove o sublinhado*/
        font-size: 20px;   /* Tamanho da fonte*/
        }
